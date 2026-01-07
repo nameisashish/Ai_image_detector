@@ -1,0 +1,7 @@
+streamlit
+numpy
+Pillow
+scipy
+pillow-heif
+transformers
+torch
